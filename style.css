@@ -1,0 +1,238 @@
+body {
+background-color: white;
+}
+
+.header{
+background-color: #d5f4e6;
+text-align: center;
+}
+
+.nav{
+background-color: #f18973;
+width:auto;
+height:auto;
+font-size: 20px;
+
+}
+.nav a{
+	color:black;
+	text-decoration: none;
+    margin-left: 100px;
+}
+.nav a:hover{
+	background-color: white;
+}
+
+.section{
+background-color: #fefbd8;
+}
+
+.filter{
+background-color: #80ced6;
+width:25%;
+height:auto;
+float:left;
+}
+
+.dropbtn {  
+    background-color: #DFE3DF;  
+    color: black;  
+    padding: 10px;  
+    font-size: 12px; 
+
+}  
+.dropdown {  
+    display: inline-block;  
+    position: relative;
+    margin-left: 20px;  
+}  
+.dropdown-content {  
+    position: relative;
+    background-color: #F7FEF7;
+      
+    min-width: 100px;  
+    display: none;  
+    z-index: 1;  
+}  
+.dropdown-content a {  
+    color: black;  
+    padding: 12px 16px;  
+    text-decoration: none;  
+    display: block;  
+}  
+.dropdown-content a:hover {  
+    background-color: orange;  
+}  
+.dropdown:hover .dropdown-content {  
+    display: block;  
+}  
+.dropdown:hover .dropbtn {  
+    background-color:#F7FEF7;  
+}  
+.cust p{
+    margin-top: 30px;
+    font-size: 22px;
+     background-color:#F7FEF7;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.price1 p{
+    margin-top: 30px;
+    font-size: 22px;
+    background-color:#F7FEF7;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+
+.color p{
+    margin-top: 30px;
+    font-size: 22px;
+    background-color:#F7FEF7;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+.comesoon p{
+
+    margin-top: 30px;
+    font-size: 22px;
+    background-color:#F7FEF7;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.products{
+background-color: #ADFEB0;
+width:75%;
+float: left;
+}
+
+
+.cars1{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align:center;
+  font-family: arial;
+  background-color: #E9F2D5;
+}
+.cars2 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align:center;
+  font-family: arial;
+  background-color: #E9F2D5;
+}
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.cars1 button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+.cars2 button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.cars1 button:hover {
+  opacity: 0.7;
+}
+.cars2 button:hover {
+  opacity: 0.7;
+}
+
+.bikes1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  background-color: #E9F2D5;
+}
+
+.bikes2 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  background-color: #E9F2D5;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.bikes1  button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.bikes2 button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+
+.bikes1 button:hover {
+  opacity: 0.7;
+}
+.bikes2 button:hover {
+  opacity: 0.7;
+}
+
+.a{
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+
